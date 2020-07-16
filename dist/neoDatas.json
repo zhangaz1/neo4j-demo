@@ -1,0 +1,2297 @@
+[
+	{
+		"type": "example",
+		"id": "featured-graphgists",
+		"name": "featured-graphgists"
+	},
+	{
+		"type": "example",
+		"id": "graph-guides",
+		"name": "graph-guides"
+	},
+	{
+		"type": "example",
+		"id": "use-case",
+		"name": "use-case"
+	},
+	{
+		"type": "example",
+		"id": "industry",
+		"name": "industry"
+	},
+	{
+		"title": "Chemicals In Cosmetics",
+		"name": "Chemicals In Cosmetics",
+		"summary": "Are dangerous chemicals in cosmetics only a thing of the past? What harmful ingredients exist in makeup now? We find out today.",
+		"neo4j_version": null,
+		"id": "d9ec56c6-0a76-49ab-8f43-0504d92225f7",
+		"slug": "chemicals-in-cosmetics",
+		"model_slug": null,
+		"updated_at": 1496350663,
+		"created_at": 1453849093,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/b12/729/11-/medium/ChemicalsInCosmeticsGist.png?1457996280",
+		"author": "dc7ce8d9-04ad-4682-9413-d55c59b64c04",
+		"industries": [
+			"Health Care"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists",
+			"use-case"
+		]
+	},
+	{
+		"title": "Competency Management: a matter of filtering and recommendation engines.",
+		"name": "Competency Management: a matter of filtering and recommendation engines.",
+		"summary": "This GraphGist simulates an internal job recommendation engine, in other words, a competence management system. This can be implemented when an organization is tasked with quickly finding the right employee among active personnel for a task or position, which has suddenly become vacant. This task can be tricky, and finding the best employee for the role can be difficult, especially for large organizations.",
+		"neo4j_version": null,
+		"id": "4cea8113-30e9-46bc-bbb0-06236a9bd8b9",
+		"slug": "competency-management-a-matter-of-filtering-and-recommendation-engines",
+		"model_slug": null,
+		"updated_at": 1496344831,
+		"created_at": 1449564981,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/897/fa0/3e-/medium/open-uri20151208-3-c15uzf?1457514645",
+		"author": "80b4ba60-730e-44d5-8ad4-18765d2bd1cf",
+		"industries": [],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "What's on the menu?",
+		"name": "What's on the menu?",
+		"summary": "This GraphGist creates a menu management system using the “What’s on the menu” collection from the New York Public Library. The model is particularly useful for modern chefs interested in recreating classic menus from storied New York restaurants and hotels. ",
+		"neo4j_version": "2.3.0",
+		"id": "7dd59a3a-590e-4c03-b1ce-d931e484c790",
+		"slug": "whats-on-the-menu",
+		"model_slug": null,
+		"updated_at": 1536068388,
+		"created_at": 1449564984,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/19d/e48/37-/medium/open-uri20151208-3-9gygtt?1457514648",
+		"author": "1f7fdce3-ed62-4f4d-8f61-a7b953e86df6",
+		"industries": [],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Amazon Web Services Global Infrastructure Graph",
+		"name": "Amazon Web Services Global Infrastructure Graph",
+		"summary": "Amazon Web Services global infrastructure is steadily expanding and now serves thousands of customers in over 190 countries. Certain services are only available in some regions and compute prices vary across the globe. Wouldn’t it be nice if you could slice and dice through the entire AWS domain of services, data centres and prices all in one spot to optimise your AWS bill? Enter the AWS Global Infrastructure Graph!",
+		"neo4j_version": "2.3.0",
+		"id": "0ff6f10d-85d9-4594-ae23-45bdb45c7df6",
+		"slug": "amazon-web-services-global-infrastructure-graph",
+		"model_slug": null,
+		"updated_at": 1536067999,
+		"created_at": 1449564964,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/e6c/8b8/af-/medium/open-uri20151208-3-ng95of?1457514632",
+		"author": "6b424b7d-2ed5-48ba-a4e9-8a16038fbd52",
+		"industries": [],
+		"use_cases": [
+			"Network and IT Operations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "First Steps with Cypher",
+		"name": "First Steps with Cypher",
+		"summary": "This example walks you through the first steps with Cypher, creating a small social network and then finding some answers.",
+		"neo4j_version": "3.0",
+		"id": "34b3cf4c-da1e-4650-81e4-3a7107336ac9",
+		"slug": "first-steps-with-cypher",
+		"model_slug": null,
+		"updated_at": 1536068093,
+		"created_at": 1461375286,
+		"featured": true,
+		"image": null,
+		"author": "b8350518-81bc-4243-84f5-6ca6b6b9a638",
+		"industries": [],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Information Flow Through a Network",
+		"name": "Information Flow Through a Network",
+		"summary": "This GraphGist models how and how fast information travels in a network, using modern algorithmic trading as a model. For example, if an announcement that impacts the financial markets is made in Washington, DC, traders in New York, NY will probably \"hear\" about it before those in, say, Seattle, WA. As you might expect, this scenario involves flow through a network, and is therefore fairly simple to model in Neo4j.",
+		"neo4j_version": "2.3.0",
+		"id": "a360534d-a7dd-41a8-9d2a-8bdbc6dbc181",
+		"slug": "information-flow-through-a-network",
+		"model_slug": null,
+		"updated_at": 1536068532,
+		"created_at": 1449564977,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/cdc/4c3/c5-/medium/open-uri20151208-3-jran9m?1457514643",
+		"author": "90a3215c-727e-4033-adc7-a7b28966158a",
+		"industries": [
+			"Finance"
+		],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists",
+			"industry"
+		]
+	},
+	{
+		"title": "Supply Chain Management",
+		"name": "Supply Chain Management",
+		"summary": "Globalization and outsourcing were the main drivers for increasing the complexity of supply chains. At the same time, natural catastrophes as well as economic, social and ethical aspects drove the importance of having a broad overview and understanding of the entire supply chain rather than just focusing on your direct suppliers and distributors. This GraphGist explores how Neo4j can help us master the supply chain network challenge.",
+		"neo4j_version": "2.3.0",
+		"id": "48d46df9-39bf-4179-9b97-5b56efd19690",
+		"slug": "supply-chain-management",
+		"model_slug": null,
+		"updated_at": 1536068191,
+		"created_at": 1449564986,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/4f1/341/7a-/medium/open-uri20151208-3-aharqv?1457514649",
+		"author": null,
+		"industries": [
+			"Manufacturing"
+		],
+		"use_cases": [
+			"Internet of Things",
+			"Optimization"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Geoptima Mobile Network Eventlog Collection",
+		"name": "Geoptima Mobile Network Eventlog Collection",
+		"summary": "This GraphGist describes one way of collecting and managing data for a hypothetical mobile network called 'Operator X' in Sweden. It uses data from Geoptima, an application for collecting passive and active events on mobile devices running on cellular networks. The event logs can be used to analyze the subscriber's experience of the mobile network and help track performance problems. For example, does iPhone 4 perform better or worse than iPhone 5 when accessing Facebook in a specific region of the network? ",
+		"neo4j_version": null,
+		"id": "2d20eadf-34d3-4d95-b4b0-fe4af76e7d1d",
+		"slug": "geoptima-mobile-network-eventlog-collection",
+		"model_slug": null,
+		"updated_at": 1496344677,
+		"created_at": 1449564975,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/f10/bf4/59-/medium/open-uri20151208-3-1r5ble1?1457514642",
+		"author": "a89402f8-3577-42da-942a-6a9bf82ceb33",
+		"industries": [],
+		"use_cases": [
+			"Network and IT Operations",
+			"Master Data Management"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Zombie Apocalypse",
+		"name": "Zombie Apocalypse",
+		"summary": "If a given state were to come down with a zombie infection how would that impact the bordering states. Would there be a contagion? This would without a doubt impact the bordering states. What is most interesting is that they can become immune or barricade themselves off from the outbreak. There is random chance that the state may or may not fall victim to the spread. This GraphGist demonstrates how you can use a graph database to model the spread of an infectious disease. ",
+		"neo4j_version": null,
+		"id": "da0f5057-1eb6-4083-a339-30e953f19440",
+		"slug": "zombie-apocalypse",
+		"model_slug": null,
+		"updated_at": 1461154757,
+		"created_at": 1449564973,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/5d3/8f8/f8-/medium/Screen_Shot_2016-02-13_at_4.58.56_PM.png?1457514640",
+		"author": "658abfd9-14d5-4ed2-9ce8-e4d03bfaa38a",
+		"industries": [
+			"Science",
+			"Health Care"
+		],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Behavioral Health Treatment Planning",
+		"name": "Behavioral Health Treatment Planning",
+		"summary": "This GraphGist implements the Wiley treatment plan using a graph database. The WIley treatment plan, a key aspect of treatment in the field of behavioral health, involves creating a four-part treatment plan, packaged as libraries, consisting of a Problem, Goal, Objective, and Intervention. The gist explores how to use a graph database to implement the Wiley treatment plan under real-world conditions. ",
+		"neo4j_version": "2.3.0",
+		"id": "faedc658-fcae-48f0-ba6a-669246d4ab9e",
+		"slug": "behavioral-health-treatment-planning",
+		"model_slug": null,
+		"updated_at": 1536069741,
+		"created_at": 1449564971,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/55a/d60/2c-/medium/open-uri20151208-3-13i8c9e?1457514639",
+		"author": "205f13a3-c70d-40ec-8b8a-40f51b606b2a",
+		"industries": [
+			"Health Care"
+		],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Northwind Recommendation Engine",
+		"name": "Northwind Recommendation Engine",
+		"summary": "Northwind Recommendation Engine",
+		"neo4j_version": null,
+		"id": "64507854-323f-478e-a3c3-2b0e6ab694eb",
+		"slug": "northwind-recommendation-engine",
+		"model_slug": null,
+		"updated_at": 1588629397,
+		"created_at": 1454317404,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/51d/bec/b6-/medium/Northwind_diagram.jpg?1457997083",
+		"author": "471bed8d-8143-477d-b798-0b1b8df74f48",
+		"industries": [
+			"Retail"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Organization Learning",
+		"name": "Organization Learning",
+		"summary": "Learning Management Systems (LMS) are typically deployed in large organizations to support learning processes that align with business goals. These systems tie together their employees, organizations, certifications, courses, jobs in order to supplement business strategy. This GraphGist models a slice of this ecosystem: certification paths and position dependencies on certifications, such as assisted living facilities.",
+		"neo4j_version": "2.3.0",
+		"id": "a123a6fc-d881-4206-b42a-f864b7bfbbd3",
+		"slug": "organization-learning",
+		"model_slug": null,
+		"updated_at": 1536068529,
+		"created_at": 1449564962,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/02e/39d/c4-/medium/open-uri20151208-3-134pj0w?1457514630",
+		"author": "34150116-6339-48de-87b0-499b8d61bb44",
+		"industries": [],
+		"use_cases": [
+			"Real-Time Recommendations",
+			"General Business"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Pharmaceutical Drugs and their Targets",
+		"name": "Pharmaceutical Drugs and their Targets",
+		"summary": "This GraphGist explores how to represent a pharmaceutical portfolio in a property graph. A pharmaceutical company or drugstore organizes its pharmaceutical products into one or more portfolios, each a collection of drug compounds, their respective indications, and their targets. A drug portfolio thus contains multiple pharmaceuticals, with each pharmaceutical containing a link to one or more of its targets in the human body. ",
+		"neo4j_version": "2.3.0",
+		"id": "e5a16f2c-9da0-47f2-82ae-2ac1c4e0be4e",
+		"slug": "pharmaceutical-drugs-and-their-targets",
+		"model_slug": null,
+		"updated_at": 1536069648,
+		"created_at": 1449564970,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/76b/8ee/06-/medium/open-uri20151208-3-pidf6u?1457514638",
+		"author": "9b9bacf4-0418-4dc7-9553-5527e0f0a860",
+		"industries": [
+			"Health Care"
+		],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Piping Water",
+		"name": "Piping Water",
+		"summary": "Many resource problems involve networks of distribution in which many components interact across sparse relationships (electricity generation and distribution, natural gas, sewage, district-piped heating); rapid and efficient querying on these relationships is necessary for efficient resource allocation and better environmental and cost outcomes. This GraphGist explores now Neo4j can help log, model and process these resources on a city scale (London sized) with several hundred million components (pipe sections, valves, pumps, flow sensors, outlets, sources, etc) and the sparse, evolving relations between those components.",
+		"neo4j_version": "2.3.0",
+		"id": "3d453f61-68c3-48c0-aa52-a1fc4a7f3d47",
+		"slug": "piping-water",
+		"model_slug": null,
+		"updated_at": 1536068149,
+		"created_at": 1449564998,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/11e/789/85-/medium/Screen_Shot_2016-02-13_at_4.58.17_PM.png?1457514659",
+		"author": "b978a2cc-665f-4ba6-a755-af724fe4045b",
+		"industries": [],
+		"use_cases": [
+			"Internet of Things"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Medicine and drugs classification for the Central Hospital of Asturias",
+		"name": "Medicine and drugs classification for the Central Hospital of Asturias",
+		"summary": "The database simulates the new computer system to dispense drugs in the HUCA (Central Hospital of Asturias). The system finds which pharmaceutical specialties are available to prescribe and which are the cheapest for the hospital to buy.",
+		"neo4j_version": null,
+		"id": "07c6f2c4-2bc0-4be1-9304-5743d0749578",
+		"slug": "medicine-amp-drugs-classification-for-the-central-hospital-of-asturias",
+		"model_slug": null,
+		"updated_at": 1496350823,
+		"created_at": 1449564968,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/bda/4f3/5a-/medium/open-uri20151208-3-1qj3xfw?1457514635",
+		"author": "a8a2d667-cbb0-4a1a-b2aa-5fadb3d76f1a",
+		"industries": [
+			"Health Care"
+		],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Finding Influencers in a Social Network",
+		"name": "Finding Influencers in a Social Network",
+		"summary": "This GraphGist analyses the interactions between users of a social network, such as Twitter or Facebook. The gist focuses on how people use the network and try to establish different types of behaviors and find influencers. This GraphGist is of particular interest to owners of social networks who are interested in finding influencers and power users, and to social network users interested in finding good person to follow. ",
+		"neo4j_version": "2.3.0",
+		"id": "637bb6a8-d27d-48f6-a456-066b47c229af",
+		"slug": "finding-influencers-in-a-social-network",
+		"model_slug": null,
+		"updated_at": 1536068286,
+		"created_at": 1449564989,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/df5/25e/3b-/medium/social-model.png?1457514650",
+		"author": "ecf69dee-7c5c-4b2d-9423-0989bc7fd069",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Aardvark: The Anatomy of a Large-Scale Social Search Engine",
+		"name": "Aardvark: The Anatomy of a Large-Scale Social Search Engine",
+		"summary": "Aardvark (2008 - 2011) was a social search service that connected users live with friends or friends-of-friends who were able to answer their questions. Users submitted questions via the Aardvark website, email or instant messenger. Aardvark then connected the user the person in the user’s social network most likely to be able to answer that question. This GraphGist explores how a service like Aardvark could be re-implemented using Neo4j. ",
+		"neo4j_version": "2.3.0",
+		"id": "601d156e-860b-4ba7-91b9-4fe075df8bec",
+		"slug": "aardvark-the-anatomy-of-a-large-scale-social-search-engine",
+		"model_slug": null,
+		"updated_at": 1536068271,
+		"created_at": 1449565000,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/91b/cc8/af-/medium/Screen_Shot_2016-02-13_at_4.57.43_PM.png?1457514661",
+		"author": "2531825e-c410-4f9c-8b1c-39a40f21ad58",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Movie Recommendations with k-Nearest Neighbors and Cosine Similarity",
+		"name": "Movie Recommendations with k-Nearest Neighbors and Cosine Similarity",
+		"summary": "In this Graph Gist, I’m using k-NN with cosine similarity as the similarity metric to calculate movie recommendations. I wanted a fun data set, so I asked people on Twitter and bothered a few people via email to fill out this form. Using their movie ratings, I’ll calculate the cosine similarity between each person. I’ll then calculate movie recommendations for a person’s unrated movies based on an average rating from that person’s k-nearest neighbors. My methodology will be explained in detail throughout.",
+		"neo4j_version": "2.1.3",
+		"id": "a7c915c8-a3d6-43b9-8127-1836fecc6e2f",
+		"slug": "movie-recommendations-with-k-nearest-neighbors-and-cosine-similarity",
+		"model_slug": null,
+		"updated_at": 1536068537,
+		"created_at": 1449564184,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/0cc/c46/2e-/medium/open-uri20151208-3-u0es3d?1457514700",
+		"author": "fe4b4d2c-107f-4e59-a418-85730d4d1df9",
+		"industries": [],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Credit Card Fraud Detection",
+		"name": "Credit Card Fraud Detection",
+		"summary": "Banks, merchants and credit card processors companies lose billions of dollars every year to credit card fraud. Bluetooth-enabled data skimming devices can be placed on the card reader on the pump that dispenses your petrol. The data might be stolen in a mass breach by hackers of a large retailer, or by the clerk at the checkout line at the grocery or in a restaurant, where the victim’s card is swiped through a small device or surreptitiously jotted down.This GraphGist covers a common credit card fraud detection scenario.",
+		"neo4j_version": "2.3.0",
+		"id": "122cdc26-ee79-4d30-ab17-540eb5218a5f",
+		"slug": "credit-card-fraud-detection",
+		"model_slug": null,
+		"updated_at": 1536068007,
+		"created_at": 1449564955,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/0d1/366/35-/medium/open-uri20151208-3-1bz6b3m?1457514627",
+		"author": "59955356-f0ba-4295-9f28-221245a8ac86",
+		"industries": [
+			"Finance"
+		],
+		"use_cases": [
+			"Fraud Detection"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists",
+			"industry"
+		]
+	},
+	{
+		"title": "Interpreting Citation Patterns in Academic Publications: A Research Aid",
+		"name": "Interpreting Citation Patterns in Academic Publications: A Research Aid",
+		"summary": "This GraphGist presents four simple examples of interpreting citation patterns in academic publications, philosophy. ",
+		"neo4j_version": "2.3.0",
+		"id": "3465ab88-70d7-49a9-a4ca-91ad1d73f683",
+		"slug": "interpreting-citation-patterns-in-academic-publications-a-research-aid",
+		"model_slug": null,
+		"updated_at": 1536068091,
+		"created_at": 1449564998,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/b58/50a/27-/medium/open-uri20151208-3-1tucwe6?1457514658",
+		"author": "230471b5-aeee-4e39-a7a6-d4211f2b75d4",
+		"industries": [
+			"Science"
+		],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Bank Fraud Detection",
+		"name": "Bank Fraud Detection",
+		"summary": "Banks and Insurance companies lose billions of dollars every year to fraud. Traditional methods of fraud detection play an important role in minimizing these losses. However increasingly sophisticated fraudsters have developed a variety of ways to elude discovery, both by working together, and by leveraging various other means of constructing false identities. While no fraud prevention measures can ever be perfect, significant opportunity for improvement lies in looking beyond the individual data points, to the connections that link them. Oftentimes these connections go unnoticed until it is too late— something that is unfortunate, as these connections oftentimes hold the best clues.",
+		"neo4j_version": "2.3.0-RC1",
+		"id": "9d627127-003b-411a-b3ce-f8d3970c2afa",
+		"slug": "bank-fraud-detection",
+		"model_slug": null,
+		"updated_at": 1536068511,
+		"created_at": 1449564173,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/477/3fc/f1-/medium/open-uri20151208-3-1s2nvy3?1457514688",
+		"author": "89da395b-61d9-447f-a7ab-0084f941b28f",
+		"industries": [
+			"Finance"
+		],
+		"use_cases": [
+			"Fraud Detection"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists",
+			"industry"
+		]
+	},
+	{
+		"title": "Network Dependency Graph",
+		"name": "Network Dependency Graph",
+		"summary": "This interactive Neo4j tutorial covers a scenario in Network and Data Center Management for ACME. ACME is a fictional company with a large network infrastructure that includes a CRM application, ERP application, and a Data Warehousing solution. ACME has a series of public facing websites that they need to be up and running in order to conduct their business and support their customers.",
+		"neo4j_version": "2.0.0-RC1",
+		"id": "306bb0c7-9820-4c29-9835-15625e4e9f96",
+		"slug": "network-dependency-graph",
+		"model_slug": null,
+		"updated_at": 1536068088,
+		"created_at": 1449564781,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/7a8/b22/06-/medium/open-uri20151208-3-u611h2?1457514623",
+		"author": "7e7b7dd7-6555-4f5f-980e-533c2a5746a9",
+		"industries": [],
+		"use_cases": [
+			"Network and IT Operations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "The PanamaPapers - Example Dataset President of Azerbaijan",
+		"name": "The PanamaPapers - Example Dataset President of Azerbaijan",
+		"summary": "In this post we look at the graph data model used by the ICIJ and show how to construct it using Cypher in Neo4j. We dissect an example from the leaked data, recreating it using Cypher, and show how the model could be extended.",
+		"neo4j_version": "2.3",
+		"id": "b0502991-9a6e-4404-896a-a80a14098e98",
+		"slug": "the-panamapapers-example-dataset-president-of-azerbaijan",
+		"model_slug": null,
+		"updated_at": 1536068566,
+		"created_at": 1460075687,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/001/f6e/b8-/medium/panama-papers-icij-neo4j.jpg?1460076085",
+		"author": "b8350518-81bc-4243-84f5-6ca6b6b9a638",
+		"industries": [
+			"Finance"
+		],
+		"use_cases": [
+			"Data Analysis",
+			"Open Government Data and Politics",
+			"Investigative Journalism",
+			"Fraud Detection",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists",
+			"industry"
+		]
+	},
+	{
+		"title": "Project Management",
+		"name": "Project Management",
+		"summary": "This GraphGist explores how to use Cypher and Neo4j to explore various problems in project management. It demonstrates how Neo4j can be used to by project managers to plan the activities of their team, both when things are going well, and when unexpected drawbacks occur. ",
+		"neo4j_version": "2.3.0",
+		"id": "8e1d6ff9-f7fa-4c99-9c5d-ecb94ba46d81",
+		"slug": "project-management",
+		"model_slug": null,
+		"updated_at": 1536068454,
+		"created_at": 1449564994,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/9b2/b28/09-/medium/project-mgmt-image.png?1512525401",
+		"author": "e182653c-2133-4e86-8987-8832f2ce9c7e",
+		"industries": [],
+		"use_cases": [
+			"Optimization",
+			"General Business"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Neo4j and the Offshore Leaks: the Case of Azerbaijan",
+		"name": "Neo4j and the Offshore Leaks: the Case of Azerbaijan",
+		"summary": "This GraphGist was built to make sense of the complex data in the Offshore Leaks dataset. A consequence of the Firepower scandal of 2013, the Offshore Leaks dataset released by the International Consortium of Investigative Journalists (ICIJ) was a rarity in the compliance/due diligence world, akin to the Cablegate or the release of the Pentagon Papers. The dataset is a treasure trove of information about offshore financial centers and tax havens. ICIJ’s investigations brought to the surface many interesting patterns, including the potentially illegal activities of the President of Azerbaijan.",
+		"neo4j_version": "2.3.0",
+		"id": "ec65c2fa-9d83-4894-bc1e-98c475c7b57a",
+		"slug": "neo4j-and-the-offshore-leaks-the-case-of-azerbaijan",
+		"model_slug": null,
+		"updated_at": 1536069678,
+		"created_at": 1449564958,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/524/dd8/1e-/medium/open-uri20151208-3-152l5vs?1457514629",
+		"author": "59955356-f0ba-4295-9f28-221245a8ac86",
+		"industries": [],
+		"use_cases": [
+			"Investigative Journalism"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Trophic Cascade: A Wolf's Role in the Ecosystem of Yellowstone",
+		"name": "Trophic Cascade: A Wolf's Role in the Ecosystem of Yellowstone",
+		"summary": "A trophic cascade is an ecological process which starts at the top of the food chain and tumbles all the way down to the bottom. A classic example of a trophic cascade is the re-introduction of wolves into Yellowstone in 1995 after a 70-year hiatus. This triggered a massive trophic cascade, involving different predators, prey, plants and even physical landscape. Wolf reintroduction may represent an effective method for passively restoring ecosystems. This GraphGist explores the Wolf’s role in the ecosystem of Yellowstone. ",
+		"neo4j_version": "2.3.0",
+		"id": "e910db0c-9f63-450d-9c48-130699d9f192",
+		"slug": "trophic-cascade-a-wolfs-role-in-the-ecosystem-of-yellowstone",
+		"model_slug": null,
+		"updated_at": 1536069663,
+		"created_at": 1449565000,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/dab/781/ee-/medium/open-uri20151208-3-1u5nbwg?1457514660",
+		"author": "54b9a239-b1de-4fb5-beab-0da105ecba1b",
+		"industries": [
+			"Science"
+		],
+		"use_cases": [
+			"Optimization"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Fitness and Nutritional Recommendations",
+		"name": "Fitness and Nutritional Recommendations",
+		"summary": "I was recently motivated to re-imagine fitness programs and nutritional supplements as a graph with the goal being to recommend fitness programs, nutritional supplements and other users that would be personalized to my user persona.",
+		"neo4j_version": "2.3.2",
+		"id": "95f4f165-0172-4b3d-981b-edcbab2e0a4b",
+		"slug": "fitness-and-nutritional-recommendations",
+		"model_slug": null,
+		"updated_at": 1536068491,
+		"created_at": 1458087609,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/d0b/5f1/ce-/medium/2016-03-16_20-17-48.png?1458184714",
+		"author": "669d454f-12ea-4840-ab42-f42b1ed64700",
+		"industries": [
+			"Sports and Recreation",
+			"Health Care"
+		],
+		"use_cases": [
+			"Sports and Recreation",
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "A March Madness Recommendation Engine",
+		"name": "A March Madness Recommendation Engine",
+		"summary": "March madness is one of the rare moments that it pays off in a social context to be a data geek. It’s a rare concord of well documented data and pop culture. Warren Buffet’s billion dollar bet grabbed the interest of everyone from Wall St. quants to Silicon Valley engineers to arm chair MoneyBallers everywhere.\r\n\r\nFollow along with Kevin as he explores how to use Neo4j to enhance your annual college basketball mania.",
+		"neo4j_version": null,
+		"id": "943332d7-3a7e-42d4-b332-accc88e3abd7",
+		"slug": "a-march-madness-recommendation-engine",
+		"model_slug": null,
+		"updated_at": 1496256731,
+		"created_at": 1449564983,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/a0c/b87/af-/medium/Screen_Shot_2016-02-19_at_12.17.28_PM.png?1457514647",
+		"author": "2a389339-057f-4dc4-a9bc-a5bfe6fee91c",
+		"industries": [],
+		"use_cases": [
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Avengers: Infinity War",
+		"name": "Avengers: Infinity War",
+		"summary": "Avengers: Infinity War is the culmination of 18 films in the Marvel Cinematic Universe (MCU). This GraphGist discusses the Avengers, the Infinity Stones, and Thanos to help prepare viewers for important background information, so they don't have to see all prior 18 films.  Avengers: Infinity War has a US release date of April 27, 2018.",
+		"neo4j_version": "3.3.4",
+		"id": "e6c19f85-dbbf-4eab-86eb-446bf6948562",
+		"slug": "avengers-infinity-war",
+		"model_slug": null,
+		"updated_at": 1536069656,
+		"created_at": 1524118513,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/08c/18c/66-/medium/Avengers_Infinity_War_Logo.png?1524619253",
+		"author": "cb47c809-f385-4cc5-820e-d7cc8e8b91a8",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Pop Culture"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"title": "Graphing our way through the ICIJ offshore jurisdiction data",
+		"name": "Graphing our way through the ICIJ offshore jurisdiction data",
+		"summary": "In 2013 the International Consortium of Investigative Journalism (ICIJ) released a subset of the leaked dataset on offshore jurisdictions to the public. The publicly released dataset is a small part of a cache of 2.5 million leaked offshore files that ICIJ analyzed. This GraphGist explores a very small subset of this public dataset and demonstrate how this data can be modeled, queried, and displayed.",
+		"neo4j_version": "2.3.0",
+		"id": "0b2c5eee-ee1f-4d10-a6df-7adc19a0c03a",
+		"slug": "graphing-our-way-through-the-icij-offshore-jurisdiction-data",
+		"model_slug": null,
+		"updated_at": 1536067990,
+		"created_at": 1449564952,
+		"featured": true,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/07b/d5a/ce-/medium/open-uri20151208-3-1t042wp?1457514626",
+		"author": "e270eb4d-3cae-49b5-a82c-215723f855e4",
+		"industries": [],
+		"use_cases": [
+			"Fraud Detection",
+			"Investigative Journalism"
+		],
+		"type": "example",
+		"galleries": [
+			"featured-graphgists"
+		]
+	},
+	{
+		"id": "28d90966-ee60-40ad-ba11-1acd08529060",
+		"title": "Introduction to Graphs and Data",
+		"name": "Introduction to Graphs and Data",
+		"slug": "introduction-to-graphs-and-data",
+		"model_slug": "graph_gists",
+		"summary": "Introduce graph and Cypher to young students with hands-on queries and exploration",
+		"categories": [
+			"Neo4j Community",
+			"Education"
+		],
+		"image_urls": [
+			"https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/cc8/cbc/39-/medium/cypher_create.jpg?1591729277"
+		],
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/cc8/cbc/39-/medium/cypher_create.jpg?1591729277",
+		"author": "3f5fa9c7-2792-4430-b6fc-ad4af74037e7",
+		"industries": [
+			"Education"
+		],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"graph-guides"
+		]
+	},
+	{
+		"id": "03c6833d-3b5e-42c3-bdd1-0cb16a2571ed",
+		"title": "Neo4j Browser User Interface Guide",
+		"name": "Neo4j Browser User Interface Guide",
+		"slug": "test-test",
+		"model_slug": "graph_gists",
+		"summary": "Introduction to features and capabilities of Neo4j Browser.",
+		"categories": [
+			"Cristina Escalante"
+		],
+		"image_urls": [
+			"https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/fa2/5f8/ad-/medium/browser-pole.png?1591956557"
+		],
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/fa2/5f8/ad-/medium/browser-pole.png?1591956557",
+		"author": "90b9a883-64b0-405e-902f-866c402f3642",
+		"industries": [],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"graph-guides"
+		]
+	},
+	{
+		"id": "cf97e272-8e1b-4086-aebc-43cf8a933265",
+		"title": "Awesome Procedures on Cypher (APOC)",
+		"name": "Awesome Procedures on Cypher (APOC)",
+		"slug": "awesome-procedures-on-cypher-apoc-2",
+		"model_slug": "graph_gists",
+		"summary": "Learn to use some of the most popular procedures in the APOC library and explore the capabilities the library can provide.",
+		"categories": [
+			"Neo4j Community"
+		],
+		"image_urls": [
+			"https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/460/29e/ca-/medium/apoc-neo4j-user-defined-procedures.jpg?1593111200"
+		],
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/460/29e/ca-/medium/apoc-neo4j-user-defined-procedures.jpg?1593111200",
+		"author": "3f5fa9c7-2792-4430-b6fc-ad4af74037e7",
+		"industries": [],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"graph-guides"
+		]
+	},
+	{
+		"id": "8a0fbc35-11b6-41d8-bbdf-ca144a262816",
+		"title": "An Intro to Neo4j with Game of Thrones",
+		"name": "An Intro to Neo4j with Game of Thrones",
+		"slug": "an-intro-to-neo4j-with-game-of-thrones",
+		"model_slug": "graph_gists",
+		"summary": "Learn Cypher and explore the Game of Thrones world.",
+		"categories": [
+			"Neo4j Community"
+		],
+		"image_urls": [
+			"https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/5fa/ede/28-/medium/nodes.png?1592249063"
+		],
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/5fa/ede/28-/medium/nodes.png?1592249063",
+		"author": "3f5fa9c7-2792-4430-b6fc-ad4af74037e7",
+		"industries": [],
+		"use_cases": [],
+		"type": "example",
+		"galleries": [
+			"graph-guides"
+		]
+	},
+	{
+		"title": "Graph of the Free Agent players of Major League Baseball 2016",
+		"name": "Graph of the Free Agent players of Major League Baseball 2016",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "90eace1d-7680-4ede-ad0e-951524831a86",
+		"slug": "graph-of-the-free-agent-players-of-major-league-baseball-2016",
+		"model_slug": null,
+		"updated_at": 1536068483,
+		"created_at": 1450365128,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/a67/c17/97-/medium/wYcFHZB.png?1457993145",
+		"author": "6b432335-61a2-4725-9c59-af6582c84728",
+		"industries": [],
+		"use_cases": [
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Exploring A Conference",
+		"name": "Exploring A Conference",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "7aa6d713-ac98-4f9b-ba69-e6cd9ad4acac",
+		"slug": "exploring-a-conference",
+		"model_slug": null,
+		"updated_at": 1536068367,
+		"created_at": 1453337739,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/2cd/594/91-/medium/LpaP8IJ.png?1457992708",
+		"author": "c49d361e-ea0f-4eec-9b5f-0c1d2e197fe9",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Graph-Based Search",
+			"Pop Culture",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Know more about James Bond Movie",
+		"name": "Know more about James Bond Movie",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "7a6c4147-9095-40f5-b25a-e9def583857a",
+		"slug": "know-more-about-james-bond-movie",
+		"model_slug": null,
+		"updated_at": 1496348639,
+		"created_at": 1454244816,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/a81/885/e7-/medium/bondGraph.png?1457993159",
+		"author": "10ea9434-5617-4060-9797-c25d41d92942",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Pop Culture",
+			"Holidays",
+			"Graph-Based Search",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Wikipedia Game",
+		"name": "Wikipedia Game",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "09bb2bbc-fb73-47a8-9778-3e5f22dcd27c",
+		"slug": "wikipedia-game",
+		"model_slug": null,
+		"updated_at": 1536067985,
+		"created_at": 1454080547,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/39d/71a/d4-/medium/Wikigame_logo.png?1457995264",
+		"author": "3d776ddc-8a46-49e3-bed2-906b329b5d71",
+		"industries": [],
+		"use_cases": [
+			"Public Web APIs",
+			"Graph-Based Search",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "OMA ",
+		"name": "OMA ",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "1b97ba64-7343-4939-bbd3-2d071e5289a0",
+		"slug": "oma",
+		"model_slug": null,
+		"updated_at": 1536068020,
+		"created_at": 1454284218,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/a88/20c/88-/medium/5g0ns0s.png?1457996218",
+		"author": "0a389dfb-4c84-4338-8881-0a4957c5f0ae",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Real-Time Recommendations",
+			"GraphGist Challenge Entries",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "NBA Playoff Prediction",
+		"name": "NBA Playoff Prediction",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "5740344d-8596-404b-9fa1-affdc78cabbc",
+		"slug": "nba-playoff-prediction",
+		"model_slug": null,
+		"updated_at": 1496348386,
+		"created_at": 1454039689,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/2c9/1a6/6b-/medium/2016-03-14_15-31-19.png?1457994707",
+		"author": "a1d10e9c-f319-4d4c-b339-c7220687314f",
+		"industries": [],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Real-Time Recommendations",
+			"Sports and Recreation",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Mouseportation",
+		"name": "Mouseportation",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "a8665614-7df7-4b61-a11f-54ee7dcfba58",
+		"slug": "mouseportation",
+		"model_slug": null,
+		"updated_at": 1536068538,
+		"created_at": 1453351758,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/866/dc7/df-/medium/2016-03-14_15-10-12.png?1457993499",
+		"author": "c06a02fe-093c-4007-8189-9c688aa69427",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Pop Culture",
+			"GraphGist Challenge Entries",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "NHL Team Ranking Model using the Stattleship Sports API and Neo4j",
+		"name": "NHL Team Ranking Model using the Stattleship Sports API and Neo4j",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "2c9da710-4c7b-497b-bbf3-418aee8d7f85",
+		"slug": "nhl-team-ranking-model-using-the-stattleship-sports-api-and-neo4j",
+		"model_slug": null,
+		"updated_at": 1496344667,
+		"created_at": 1453146196,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/be8/e40/c8-/medium/2016-03-14_15-38-38.png?1457995157",
+		"author": "98b77d8c-a31e-42b7-a93a-19d8106b95f2",
+		"industries": [],
+		"use_cases": [
+			"Public Web APIs",
+			"GraphGist Challenge Entries",
+			"Sports and Recreation"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "ClimbingDB (social network climbing database)",
+		"name": "ClimbingDB (social network climbing database)",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "3d29e433-5730-4bfe-bdfc-8d070637ad24",
+		"slug": "climbdb-social-networkclimbing-database-2",
+		"model_slug": null,
+		"updated_at": 1496344804,
+		"created_at": 1453221675,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/664/de7/cd-/medium/capture2.png?1457992216",
+		"author": "f30d8276-7a64-46fd-af65-0341623448ea",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Sports and Recreation"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "A Foodys guide",
+		"name": "A Foodys guide",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "98351de8-e615-4dc4-bcdb-90bcc0ca1be8",
+		"slug": "get-closer-to-your-food-with-neo4j",
+		"model_slug": null,
+		"updated_at": 1492447151,
+		"created_at": 1451658726,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/4dd/364/58-/medium/nerd-quote-technology-download-food.jpg?1457991899",
+		"author": "e127ab78-dc12-4a7d-9d29-158a81286b0c",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Real-Time Recommendations",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Code API dependency",
+		"name": "Code API dependency",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "9333a276-8c87-45ed-b02b-49e50bfbe002",
+		"slug": "api-dependency-graph",
+		"model_slug": null,
+		"updated_at": 1536068487,
+		"created_at": 1452745422,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/b35/b3a/d0-/medium/2016-03-14_14-53-37.png?1457992436",
+		"author": "eadd36c6-4d32-4dd2-9b6b-7ac76f0cba1e",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Public Web APIs",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "League of legends counters and builds",
+		"name": "League of legends counters and builds",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "82eb483b-06f4-4934-b2f3-071f6dc466fd",
+		"slug": "league-of-legends-counters-and-builds",
+		"model_slug": null,
+		"updated_at": 1496348324,
+		"created_at": 1454024572,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/59d/4cb/14-/medium/2016-03-14_15-06-55.png?1457993235",
+		"author": "1d83a3d5-1cab-49e4-9d56-97af1dfeeeea",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Sports and Recreation",
+			"GraphGist Challenge Entries",
+			"Pop Culture"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Santa's shortest weighted path",
+		"name": "Santa's shortest weighted path",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "92064364-ae62-405b-bfa7-a46e5e85e22b",
+		"slug": "santas-shortest-weighted-path",
+		"model_slug": null,
+		"updated_at": 1492448117,
+		"created_at": 1453331881,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/61f/9a8/e7-/medium/reindeers_pulling_santas_sled_or_sleigh_0521-1009-1013-0121_SMU.jpg?1457997723",
+		"author": "5b009d66-f3af-4e1f-b7bd-f32701a8bf47",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Holidays",
+			"GraphGist Challenge Entries",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "England Senior squad for RBS 6 Nations 2016 and Elite Player Squad",
+		"name": "England Senior squad for RBS 6 Nations 2016 and Elite Player Squad",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "8603ffbd-bceb-43f7-8632-3be1d1ad7bbb",
+		"slug": "england-6-nations-2016-squad",
+		"model_slug": null,
+		"updated_at": 1496347711,
+		"created_at": 1452789156,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/4ff/bc1/03-/medium/2016-03-14_14-56-42.png?1457992622",
+		"author": "1d2ab871-e689-464d-934b-a581c3ebb6dc",
+		"industries": [],
+		"use_cases": [
+			"Sports and Recreation",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "News with the words in common",
+		"name": "News with the words in common",
+		"summary": "",
+		"neo4j_version": "2.3.2",
+		"id": "6f59dd63-7c64-4e1f-8f07-355f8bd4f585",
+		"slug": "news-with-the-words-in-common",
+		"model_slug": null,
+		"updated_at": 1536068330,
+		"created_at": 1454200208,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/fbd/5cb/5c-/medium/2016-03-14_15-35-42.png?1457994967",
+		"author": "dc9025c1-6884-406c-9aa4-b9cc0889ae79",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Investigative Journalism",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Drug repurposing by hetnet relationship prediction",
+		"name": "Drug repurposing by hetnet relationship prediction",
+		"summary": "",
+		"neo4j_version": "2.3.2",
+		"id": "c4eab62c-7f5e-4e17-8f75-811d65d83127",
+		"slug": "drug-repurposing-by-hetnet-relationship-prediction-a-new-hope",
+		"model_slug": null,
+		"updated_at": 1536068630,
+		"created_at": 1454033101,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/681/961/dd-/medium/network-v1.0-unlabeled-thumbnail.png?1457657213",
+		"author": "de24582a-591c-4eb9-baf6-71277d8578c6",
+		"industries": [
+			"Health Care"
+		],
+		"use_cases": [
+			"Graph-Based Search",
+			"Open Government Data and Politics",
+			"GraphGist Challenge Entries",
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Seattle Shakespeare Company Productions",
+		"name": "Seattle Shakespeare Company Productions",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "8bd1ad09-2c20-44c5-8166-447e175a6a33",
+		"slug": "seattle-shakespeare-company-productions",
+		"model_slug": null,
+		"updated_at": 1536068447,
+		"created_at": 1453961076,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/ca1/23d/16-/medium/f5h7wPP.jpg?1457996115",
+		"author": "f9b97987-1c98-430a-a794-dcb6c2ae96d2",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Pop Culture",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "City of London Crime Analysis",
+		"name": "City of London Crime Analysis",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "40901f96-6157-42b1-a541-cb05a118a275",
+		"slug": "city-of-london-crime-analysis",
+		"model_slug": null,
+		"updated_at": 1496348436,
+		"created_at": 1454170344,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/26b/aed/82-/medium/500px-Flag_of_the_City_of_London.svg.png?1457992316",
+		"author": "a85f33b9-2061-4779-b451-58d5b637cf96",
+		"industries": [],
+		"use_cases": [
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Personality Prediction based on Pattern Analysis on Social Media",
+		"name": "Personality Prediction based on Pattern Analysis on Social Media",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "d3a1e3af-d803-40f7-bafb-c49558a5cf0b",
+		"slug": "personality-prediction-based-on-pattern-analysis-on-social-media-2",
+		"model_slug": null,
+		"updated_at": 1496348510,
+		"created_at": 1454183689,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/e25/17a/ea-/medium/NvNX3Ar.jpg?1457994423",
+		"author": "12295124-b70f-4d15-899b-f6130469a689",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Fraud Detection"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Gene Co-expression graph",
+		"name": "Gene Co-expression graph",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "dba96ed2-2d3c-469c-a1a4-cda067c873fc",
+		"slug": "gene-co-expression-graph",
+		"model_slug": null,
+		"updated_at": 1536069622,
+		"created_at": 1453189100,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/787/0a1/cc-/medium/CZEH6d6UkAAPz2y.png?1457993077",
+		"author": "4be12ea4-0c49-4f15-a3cb-6c847a4eb193",
+		"industries": [
+			"Health Care"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Open Government Data and Politics"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Eurovision Votes",
+		"name": "Eurovision Votes",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "4a8d08ce-c8bf-4543-beb5-3a1ef07f4eec",
+		"slug": "eurovision-votes",
+		"model_slug": null,
+		"updated_at": 1496344827,
+		"created_at": 1451397830,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/3d6/596/ca-/medium/giphy.gif?1457992670",
+		"author": "5b27a4b2-6973-412d-9693-31da8d4c3c1d",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Investigative Journalism",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Detection of inappropriate content in social networks",
+		"name": "Detection of inappropriate content in social networks",
+		"summary": "",
+		"neo4j_version": "2.3.1",
+		"id": "38cd6622-b863-40af-b9a8-d4bb7d2eb20f",
+		"slug": "detection-of-inappropriate-content-in-social-networks",
+		"model_slug": null,
+		"updated_at": 1536068124,
+		"created_at": 1450702805,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/83b/21c/71-/medium/2016-03-14_14-54-40.png?1457992500",
+		"author": "1c10f983-c0d4-4518-a74f-63a3eaf30381",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Public Web APIs",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "MODELLING THE TOP5S SECURITIES OF THE STOCK MARKET",
+		"name": "MODELLING THE TOP5S SECURITIES OF THE STOCK MARKET",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "aad2c4f2-06c7-40a4-8b20-bca2f2a4ca92",
+		"slug": "modelling-the-top5s-securities-of-the-stock-market",
+		"model_slug": null,
+		"updated_at": 1536068541,
+		"created_at": 1453353912,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/6e1/ce7/e9-/medium/2016-03-14_15-09-18.png?1457993379",
+		"author": "c96608cc-56f1-4a32-8479-6ee8db02cfef",
+		"industries": [
+			"Finance"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Graph-Based Search",
+			"Master Data Management"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case",
+			"industry"
+		]
+	},
+	{
+		"title": "Belgian Beer Graph - straight from Wikipedia into a GraphGist",
+		"name": "Belgian Beer Graph - straight from Wikipedia into a GraphGist",
+		"summary": "",
+		"neo4j_version": "2.3.1",
+		"id": "906d8618-3ac5-4bbb-b46f-64aadf2f8953",
+		"slug": "scraping-wikipedia-and-loading-into-a-graphgist",
+		"model_slug": null,
+		"updated_at": 1536068482,
+		"created_at": 1450385222,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/aae/e40/27-/medium/Screen-Shot-2013-05-17-at-21.40.36.png?1457992009",
+		"author": "4a618261-b2a5-4bfc-9211-6f6e4054a577",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Public Web APIs",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "MAME - Graph",
+		"name": "MAME - Graph",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "2be800c4-8b62-4e5c-a116-366640b1de78",
+		"slug": "mame-graph",
+		"model_slug": null,
+		"updated_at": 1536068078,
+		"created_at": 1453868928,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/826/b80/e6-/medium/pacman.png?1457993325",
+		"author": "ee8bb5de-9200-4b72-90ef-9f1124abf4f1",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Graph-Based Search"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Exploring the Star Wars social network",
+		"name": "Exploring the Star Wars social network",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "855363c7-cdeb-4c8b-b4a5-b72c8f2388e3",
+		"slug": "exploring-the-star-wars-social-network",
+		"model_slug": null,
+		"updated_at": 1536068409,
+		"created_at": 1454239194,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/9b3/82c/78-/medium/network-relations.png?1457992737",
+		"author": "09ccfd6a-d82b-4045-b0ed-e33dacb11edf",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Pop Culture",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Running Competition",
+		"name": "Running Competition",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "14bdffc9-8ba4-464e-86f8-577f484428e6",
+		"slug": "ranking-in-running-competition",
+		"model_slug": null,
+		"updated_at": 1536068012,
+		"created_at": 1452704744,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/996/848/7d-/medium/Screen_Shot_2016-03-14_at_7.07.22_PM.png?1457996871",
+		"author": "8784a60a-73ff-4ed4-9558-a25be0885382",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"Sports and Recreation",
+			"GraphGist Challenge Entries"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Travel Helper",
+		"name": "Travel Helper",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "7a27d32f-13b2-44a4-b70a-a59f0a6b266f",
+		"slug": "travelhelper",
+		"model_slug": null,
+		"updated_at": 1461154764,
+		"created_at": 1453326091,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/8c3/0e0/5a-/medium/fSZBomW.png?1457995505",
+		"author": "fdbbbb8a-a0cd-4f72-b1d1-b909694031f4",
+		"industries": [],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Sports and Recreation",
+			"Open Government Data and Politics"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Graph of a musical groups' albums, songs and lyrics",
+		"name": "Graph of a musical groups' albums, songs and lyrics",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "ed1382ac-3cc4-4936-bdc0-8662b96a77d1",
+		"slug": "graphing-the-song-lyrics-of-one-direction",
+		"model_slug": null,
+		"updated_at": 1536069679,
+		"created_at": 1452972952,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/01e/513/97-/medium/xALasOQ.png?1457993115",
+		"author": "9f68bd00-734d-4482-b0c8-18bd566a1ad0",
+		"industries": [
+			"Web & Social"
+		],
+		"use_cases": [
+			"GraphGist Challenge Entries",
+			"Pop Culture"
+		],
+		"type": "example",
+		"galleries": [
+			"use-case"
+		]
+	},
+	{
+		"title": "Flight Analyzer",
+		"name": "Flight Analyzer",
+		"summary": "",
+		"neo4j_version": "2.3.0",
+		"id": "c911990d-fb26-42ac-ac9a-9d1b8ae96f98",
+		"slug": "flight-analyzer",
+		"model_slug": null,
+		"updated_at": 1536068634,
+		"created_at": 1454304660,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/9fd/f3f/b0-/medium/fhRnvSI.png?1457992809",
+		"author": "2d67d9a6-ed06-4c87-b5df-e83db3c5baf1",
+		"industries": [
+			"Finance",
+			"Web & Social"
+		],
+		"use_cases": [
+			"Open Government Data and Politics",
+			"GraphGist Challenge Entries",
+			"Public Web APIs",
+			"Graph-Based Search",
+			"Real-Time Recommendations"
+		],
+		"type": "example",
+		"galleries": [
+			"industry"
+		]
+	},
+	{
+		"title": "Network versions",
+		"name": "Network versions",
+		"summary": "Versioning in graphs is a bit challenging. This approach uses version-nodes to manage additions, updates and deletions of the structure of the graph.",
+		"neo4j_version": null,
+		"id": "5e3d1fdf-d14d-4e0f-80a9-bbf344ea3e07",
+		"slug": "network-versions",
+		"model_slug": null,
+		"updated_at": 1492448583,
+		"created_at": 1462604219,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/a2f/0ba/94-/medium/Gist01.jpg?1462691306",
+		"author": "be638e7c-62a8-4fce-8023-65d82b285ed7",
+		"industries": [
+			"Finance",
+			"Comp Sci and Programming",
+			"Education",
+			"Transportation and Logistics"
+		],
+		"use_cases": [
+			"General Business"
+		],
+		"type": "example",
+		"galleries": [
+			"industry"
+		]
+	},
+	{
+		"title": "Rebels financial system",
+		"name": "Rebels financial system",
+		"summary": "",
+		"neo4j_version": null,
+		"id": "3434c24b-6ab3-47a7-bcbe-ac95adc16099",
+		"slug": "rebels-financial-system",
+		"model_slug": null,
+		"updated_at": 1496344730,
+		"created_at": 1454306687,
+		"featured": false,
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/eb0/624/a5-/medium/Screen_Shot_2016-03-14_at_7.00.42_PM.png?1457996471",
+		"author": "4c175970-6fa5-416a-99f3-30a49bc412ba",
+		"industries": [
+			"Finance"
+		],
+		"use_cases": [
+			"Graph-Based Search",
+			"GraphGist Challenge Entries",
+			"Network and IT Operations"
+		],
+		"type": "example",
+		"galleries": [
+			"industry"
+		]
+	},
+	{
+		"title": "GraphGist Challenge Entries",
+		"name": "GraphGist Challenge Entries",
+		"id": "261b2ccf-3ca4-4cab-9d9d-f1b3e84cfa41",
+		"slug": "graphgist-challenge",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/809/ef4/12-/medium/rook.png?1504292713",
+		"type": "useCase"
+	},
+	{
+		"title": "Health Care",
+		"name": "Health Care",
+		"id": "b3174f3a-1b1c-4658-a828-f75987828b1d",
+		"slug": "health-care-and-science",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/e9c/61c/46-/medium/noun_105235.png?1457514499",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "Nicole Zoe Chau",
+		"title": "Nicole Zoe Chau",
+		"id": "dc7ce8d9-04ad-4682-9413-d55c59b64c04",
+		"type": "author"
+	},
+	{
+		"title": "Real-Time Recommendations",
+		"name": "Real-Time Recommendations",
+		"id": "3ccffaa7-2968-42cd-8ea0-51321d5bdaa4",
+		"slug": "real-time-recommendations",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/77f/d47/9e-/medium/noun_358410.png?1457514443",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Antonio Andrea Gentile",
+		"title": "Antonio Andrea Gentile",
+		"id": "80b4ba60-730e-44d5-8ad4-18765d2bd1cf",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Brian M Markowitz",
+		"title": "Brian M Markowitz",
+		"id": "1f7fdce3-ed62-4f4d-8f61-a7b953e86df6",
+		"type": "author"
+	},
+	{
+		"title": "Network and IT Operations",
+		"name": "Network and IT Operations",
+		"id": "5e73a9e9-d669-45a5-9992-ea0ce215c35b",
+		"slug": "network-and-it-operations",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/5c4/af6/ee-/medium/noun_258963.png?1457514446",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Aidan",
+		"title": "Aidan",
+		"id": "6b424b7d-2ed5-48ba-a4e9-8a16038fbd52",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Michael Hunger",
+		"title": "Michael Hunger",
+		"id": "b8350518-81bc-4243-84f5-6ca6b6b9a638",
+		"type": "author"
+	},
+	{
+		"title": "Finance",
+		"name": "Finance",
+		"id": "7e3d2284-7aa2-49d5-ba2c-c708c16e9321",
+		"slug": "finance",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/ef5/d80/0c-/medium/noun_361203.png?1457514497",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "William Lyon",
+		"title": "William Lyon",
+		"id": "90a3215c-727e-4033-adc7-a7b28966158a",
+		"type": "author"
+	},
+	{
+		"title": "Internet of Things",
+		"name": "Internet of Things",
+		"id": "e0957a99-1f1a-4d7f-bfa3-8e3ef85351c5",
+		"slug": "internet-of-things",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/529/6c3/30-/medium/noun_358752.png?1457514439",
+		"type": "useCase"
+	},
+	{
+		"title": "Optimization",
+		"name": "Optimization",
+		"id": "151f33e1-c51c-4b58-91ca-7a3f8190404c",
+		"slug": "optimization",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/f3a/c37/55-/medium/noun_252754.png?1457514440",
+		"type": "useCase"
+	},
+	{
+		"title": "Manufacturing",
+		"name": "Manufacturing",
+		"id": "3f251ff8-8c42-4ed4-a5c1-5fe3b33ca676",
+		"slug": "manufacturing",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/d28/c9e/aa-/medium/noun_10993.png?1457514502",
+		"type": "industry"
+	},
+	{
+		"title": "Master Data Management",
+		"name": "Master Data Management",
+		"id": "c221e69b-c726-4d8d-9232-28e454c1e606",
+		"slug": "master-data-management",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/900/e31/33-/medium/noun_176315.png?1457514451",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Craig Taverner",
+		"title": "Craig Taverner",
+		"id": "a89402f8-3577-42da-942a-6a9bf82ceb33",
+		"type": "author"
+	},
+	{
+		"title": "Science",
+		"name": "Science",
+		"id": "8f5a9e11-af9f-43c8-b232-52af49d3bde9",
+		"slug": "science",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/08f/f6e/73-/medium/noun_10191.png?1457514501",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "Kenny Darrell",
+		"title": "Kenny Darrell",
+		"id": "658abfd9-14d5-4ed2-9ce8-e4d03bfaa38a",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Greg Ricker",
+		"title": "Greg Ricker",
+		"id": "205f13a3-c70d-40ec-8b8a-40f51b606b2a",
+		"type": "author"
+	},
+	{
+		"title": "Retail",
+		"name": "Retail",
+		"id": "351bd901-c72d-4659-98d7-033941c2dde6",
+		"slug": "retail",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/aaf/ea7/91-/medium/noun_31439.png?1457514503",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "Adam Cowley",
+		"title": "Adam Cowley",
+		"id": "471bed8d-8143-477d-b798-0b1b8df74f48",
+		"type": "author"
+	},
+	{
+		"title": "General Business",
+		"name": "General Business",
+		"id": "eee2aa6d-1ad4-44c7-b765-9f68baa8e11a",
+		"slug": "general-business",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/d23/998/76-/medium/noun_401.png?1457514438",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Luanne Misquitta",
+		"title": "Luanne Misquitta",
+		"id": "34150116-6339-48de-87b0-499b8d61bb44",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Josh Kunken",
+		"title": "Josh Kunken",
+		"id": "9b9bacf4-0418-4dc7-9553-5527e0f0a860",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Shaun Daley",
+		"title": "Shaun Daley",
+		"id": "b978a2cc-665f-4ba6-a755-af724fe4045b",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Luis Martínez Menéndez",
+		"title": "Luis Martínez Menéndez",
+		"id": "a8a2d667-cbb0-4a1a-b2aa-5fadb3d76f1a",
+		"type": "author"
+	},
+	{
+		"title": "Graph-Based Search",
+		"name": "Graph-Based Search",
+		"id": "d4f819f2-4e0c-460a-93a5-1d8a541b10a2",
+		"slug": "graph-based-search",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/965/8a6/96-/medium/graph_search_icon.png?1457514450",
+		"type": "useCase"
+	},
+	{
+		"title": "Web & Social",
+		"name": "Web & Social",
+		"id": "e73c1dfb-9f5c-403f-a2fb-d1f36be6fc26",
+		"slug": "web-amp-social",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/6eb/753/62-/medium/noun_87003.png?1457514498",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "Neo Technology",
+		"title": "Neo Technology",
+		"id": "ecf69dee-7c5c-4b2d-9423-0989bc7fd069",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "whatSocks",
+		"title": "whatSocks",
+		"id": "2531825e-c410-4f9c-8b1c-39a40f21ad58",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Nicole White",
+		"title": "Nicole White",
+		"id": "fe4b4d2c-107f-4e59-a418-85730d4d1df9",
+		"type": "author"
+	},
+	{
+		"title": "Fraud Detection",
+		"name": "Fraud Detection",
+		"id": "e04b381f-1d19-4c2f-9ffc-dd0d110e8008",
+		"slug": "fraud-detection",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/f2c/62b/68-/medium/noun_62765.png?1457514447",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Jean Villedieu",
+		"title": "Jean Villedieu",
+		"id": "59955356-f0ba-4295-9f28-221245a8ac86",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "jjaderberg",
+		"title": "jjaderberg",
+		"id": "230471b5-aeee-4e39-a7a6-d4211f2b75d4",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Kenny Bastani",
+		"title": "Kenny Bastani",
+		"id": "89da395b-61d9-447f-a7ab-0084f941b28f",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Kenny Bastani",
+		"title": "Kenny Bastani",
+		"id": "7e7b7dd7-6555-4f5f-980e-533c2a5746a9",
+		"type": "author"
+	},
+	{
+		"title": "Data Analysis",
+		"name": "Data Analysis",
+		"id": "80641d53-0e28-49b8-a7a4-6126a88547ab",
+		"slug": "data-analysis",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/c17/a61/68-/medium/noun_301197.png?1457514441",
+		"type": "useCase"
+	},
+	{
+		"title": "Open Government Data and Politics",
+		"name": "Open Government Data and Politics",
+		"id": "0fb3c5ad-59f8-4242-9acf-baf57afa4284",
+		"slug": "open-government-data-and-politics",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/4b8/a1a/58-/medium/noun_38252.png?1457514432",
+		"type": "useCase"
+	},
+	{
+		"title": "Investigative Journalism",
+		"name": "Investigative Journalism",
+		"id": "94b1aac1-3e43-4b7b-9f5e-bfc3e648e35a",
+		"slug": "investigative-journalism",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/218/056/c9-/medium/noun_228021.png?1457514445",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Nicole White",
+		"title": "Nicole White",
+		"id": "e182653c-2133-4e86-8987-8832f2ce9c7e",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "May Lim",
+		"title": "May Lim",
+		"id": "54b9a239-b1de-4fb5-beab-0da105ecba1b",
+		"type": "author"
+	},
+	{
+		"title": "Sports and Recreation",
+		"name": "Sports and Recreation",
+		"id": "4bb63a66-76a8-4b6a-97dd-4304a4ac838e",
+		"slug": "sports-and-recreation",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/c3e/eeb/00-/medium/noun_11084.png?1457514435",
+		"type": "useCase"
+	},
+	{
+		"title": "Sports and Recreation",
+		"name": "Sports and Recreation",
+		"id": "6803cf79-2261-422a-84c8-b1e2051219b8",
+		"slug": "sports-and-gaming",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/398/dbb/3b-/medium/noun_129319.png?1457514505",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "Benjamin Nussbaum",
+		"title": "Benjamin Nussbaum",
+		"id": "669d454f-12ea-4840-ab42-f42b1ed64700",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Kevin Van Gundy",
+		"title": "Kevin Van Gundy",
+		"id": "2a389339-057f-4dc4-a9bc-a5bfe6fee91c",
+		"type": "author"
+	},
+	{
+		"title": "Pop Culture",
+		"name": "Pop Culture",
+		"id": "41513051-547f-4b63-b29f-5dc2f3ceac6c",
+		"slug": "pop-culture",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/de8/b13/4f-/medium/noun_253701.png?1457514437",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Eric Monk",
+		"title": "Eric Monk",
+		"id": "cb47c809-f385-4cc5-820e-d7cc8e8b91a8",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Maarten Hermans",
+		"title": "Maarten Hermans",
+		"id": "e270eb4d-3cae-49b5-a82c-215723f855e4",
+		"type": "author"
+	},
+	{
+		"id": "049d887a-a047-4f64-8b19-d0abcf6bb80d",
+		"title": "Education",
+		"name": "Education",
+		"slug": "education",
+		"model_slug": "industries",
+		"summary": "Education-related graphgists",
+		"categories": [],
+		"image_urls": [
+			"https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/4db/c62/6c-/medium/noun_12737.png?1457514507"
+		],
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/4db/c62/6c-/medium/noun_12737.png?1457514507",
+		"type": "industry"
+	},
+	{
+		"id": "3f5fa9c7-2792-4430-b6fc-ad4af74037e7",
+		"title": "Neo4j Community",
+		"name": "Neo4j Community",
+		"slug": "devrel-teamneo4jcom",
+		"model_slug": "people",
+		"summary": null,
+		"categories": [],
+		"image_urls": [],
+		"type": "category"
+	},
+	{
+		"id": "90b9a883-64b0-405e-902f-866c402f3642",
+		"title": "Cristina Escalante",
+		"name": "Cristina Escalante",
+		"slug": "cristina-escalante-2",
+		"model_slug": "people",
+		"summary": null,
+		"categories": [],
+		"image_urls": [],
+		"type": "category"
+	},
+	{
+		"model_slug": "people",
+		"name": "Janos Szendi-Varga",
+		"title": "Janos Szendi-Varga",
+		"id": "6b432335-61a2-4725-9c59-af6582c84728",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Dustin Cote",
+		"title": "Dustin Cote",
+		"id": "c49d361e-ea0f-4eec-9b5f-0c1d2e197fe9",
+		"type": "author"
+	},
+	{
+		"title": "Holidays",
+		"name": "Holidays",
+		"id": "1b7acda3-1f1e-4993-bc1f-201e8929799b",
+		"slug": "holidays",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/3f5/749/ad-/medium/noun_11925.png?1457514434",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Eric Lee",
+		"title": "Eric Lee",
+		"id": "10ea9434-5617-4060-9797-c25d41d92942",
+		"type": "author"
+	},
+	{
+		"title": "Public Web APIs",
+		"name": "Public Web APIs",
+		"id": "405ab0c4-b12e-491b-867e-53115fb06e4a",
+		"slug": "public-web-apis",
+		"model_slug": "use_cases",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/64d/9e2/d6-/medium/noun_107281.png?1457514436",
+		"type": "useCase"
+	},
+	{
+		"model_slug": "people",
+		"name": "Sascha Peukert",
+		"title": "Sascha Peukert",
+		"id": "3d776ddc-8a46-49e3-bed2-906b329b5d71",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Michiel",
+		"title": "Michiel",
+		"id": "0a389dfb-4c84-4338-8881-0a4957c5f0ae",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Di Lu",
+		"title": "Di Lu",
+		"id": "a1d10e9c-f319-4d4c-b339-c7220687314f",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Craig Walls",
+		"title": "Craig Walls",
+		"id": "c06a02fe-093c-4007-8189-9c688aa69427",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Brock Tibert",
+		"title": "Brock Tibert",
+		"id": "98b77d8c-a31e-42b7-a93a-19d8106b95f2",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Matjaz Moser",
+		"title": "Matjaz Moser",
+		"id": "f30d8276-7a64-46fd-af65-0341623448ea",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Mahtab Alam",
+		"title": "Mahtab Alam",
+		"id": "e127ab78-dc12-4a7d-9d29-158a81286b0c",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Dylan Scott",
+		"title": "Dylan Scott",
+		"id": "eadd36c6-4d32-4dd2-9b6b-7ac76f0cba1e",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Mattia Zaratin",
+		"title": "Mattia Zaratin",
+		"id": "1d83a3d5-1cab-49e4-9d56-97af1dfeeeea",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Alessio De Angelis",
+		"title": "Alessio De Angelis",
+		"id": "5b009d66-f3af-4e1f-b7bd-f32701a8bf47",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Robin Bramley",
+		"title": "Robin Bramley",
+		"id": "1d2ab871-e689-464d-934b-a581c3ebb6dc",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Bruno P. Kinoshita",
+		"title": "Bruno P. Kinoshita",
+		"id": "dc9025c1-6884-406c-9aa4-b9cc0889ae79",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Daniel Himmelstein",
+		"title": "Daniel Himmelstein",
+		"id": "de24582a-591c-4eb9-baf6-71277d8578c6",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Amanda",
+		"title": "Amanda",
+		"id": "f9b97987-1c98-430a-a794-dcb6c2ae96d2",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "xun",
+		"title": "xun",
+		"id": "a85f33b9-2061-4779-b451-58d5b637cf96",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "prabu-agiliztech",
+		"title": "prabu-agiliztech",
+		"id": "12295124-b70f-4d15-899b-f6130469a689",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "kaiwang0112006",
+		"title": "kaiwang0112006",
+		"id": "4be12ea4-0c49-4f15-a3cb-6c847a4eb193",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Matthieu Totet",
+		"title": "Matthieu Totet",
+		"id": "5b27a4b2-6973-412d-9693-31da8d4c3c1d",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Miguel",
+		"title": "Miguel",
+		"id": "1c10f983-c0d4-4518-a74f-63a3eaf30381",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Logical Graphs LLC",
+		"title": "Logical Graphs LLC",
+		"id": "c96608cc-56f1-4a32-8479-6ee8db02cfef",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "rvanbruggen",
+		"title": "rvanbruggen",
+		"id": "4a618261-b2a5-4bfc-9211-6f6e4054a577",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "csantill",
+		"title": "csantill",
+		"id": "ee8bb5de-9200-4b72-90ef-9f1124abf4f1",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Evelina Gabasova",
+		"title": "Evelina Gabasova",
+		"id": "09ccfd6a-d82b-4045-b0ed-e33dacb11edf",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "dirkhpe",
+		"title": "dirkhpe",
+		"id": "8784a60a-73ff-4ed4-9558-a25be0885382",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Justyna Gromada",
+		"title": "Justyna Gromada",
+		"id": "fdbbbb8a-a0cd-4f72-b1d1-b909694031f4",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "rickerg0",
+		"title": "rickerg0",
+		"id": "9f68bd00-734d-4482-b0c8-18bd566a1ad0",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "soheil-jazayeri",
+		"title": "soheil-jazayeri",
+		"id": "2d67d9a6-ed06-4c87-b5df-e83db3c5baf1",
+		"type": "author"
+	},
+	{
+		"title": "Comp Sci and Programming",
+		"name": "Comp Sci and Programming",
+		"id": "b19657d5-3faa-4c70-8552-1e06e61b57a0",
+		"slug": "computer-science-and-programming",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/693/4e6/58-/medium/noun_94092.png?1457514509",
+		"type": "industry"
+	},
+	{
+		"title": "Transportation and Logistics",
+		"name": "Transportation and Logistics",
+		"id": "a34442df-3914-431e-96e3-23a481703fcf",
+		"slug": "transportation-and-logistics",
+		"model_slug": "industries",
+		"image": "https://graphgist-portal-production.s3.amazonaws.com/graph_starter/images/sources/03e/fe4/b2-/medium/noun_144785.png?1457514506",
+		"type": "industry"
+	},
+	{
+		"model_slug": "people",
+		"name": "Tom (Ophileon) Zeppenfeldt ",
+		"title": "Tom (Ophileon) Zeppenfeldt ",
+		"id": "be638e7c-62a8-4fce-8023-65d82b285ed7",
+		"type": "author"
+	},
+	{
+		"model_slug": "people",
+		"name": "Marcello Dalponte",
+		"title": "Marcello Dalponte",
+		"id": "4c175970-6fa5-416a-99f3-30a49bc412ba",
+		"type": "author"
+	}
+]
