@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/zhangaz1/neo4j-demo#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ramda": "^0.27.0"
   }
 }
